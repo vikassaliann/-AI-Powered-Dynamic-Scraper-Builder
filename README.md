@@ -151,7 +151,7 @@ This lets you browse DB tables without writing SQL.
 └── scraping_output/                # AI-generated folder
     ├── my_scraper.py               # The final scraper
     ├── view_data.py                # Viewer tool
-    └── sunbiz_relational.db        # SQLite relational dataset
+    └── sunbiz_normalized.db        # SQLite relational dataset
 ```
 
 ---
